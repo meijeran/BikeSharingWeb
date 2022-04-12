@@ -106,7 +106,7 @@
 
   <ItemGroup Condition=" '$(TargetFramework)' == 'netcoreapp1.1' ">
     <PackageReference Include="Microsoft.NETCore.App">
-      <Version>1.1.0-preview1-001100-00</Version>
+      <Version>2.0.3</Version>
     </PackageReference>
   </ItemGroup>
 
